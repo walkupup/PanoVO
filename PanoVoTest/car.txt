@@ -1,0 +1,7 @@
+[Junwei]
+Vehicle Len = 4.930000
+Vehicle Width = 1.850000
+
+[Honda]
+Vehicle Len = 4.930000
+Vehicle Width = 1.850000

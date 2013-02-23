@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PanoVoTest", "PanoVoTest.vcproj", "{94BFFAD4-2271-4045-B6A3-4F2D93D57B3E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PanoVO", "..\PanoVO\PanoVO.vcproj", "{810713FD-7E26-406A-9B63-C27F82417FBE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{92E9836B-FF10-447A-8EB9-C7D325924869} = {92E9836B-FF10-447A-8EB9-C7D325924869}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jssjIUD", "..\jssjIUD\src\jssjIUD.vcproj", "{92E9836B-FF10-447A-8EB9-C7D325924869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94BFFAD4-2271-4045-B6A3-4F2D93D57B3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94BFFAD4-2271-4045-B6A3-4F2D93D57B3E}.Debug|Win32.Build.0 = Debug|Win32
+		{94BFFAD4-2271-4045-B6A3-4F2D93D57B3E}.Release|Win32.ActiveCfg = Release|Win32
+		{94BFFAD4-2271-4045-B6A3-4F2D93D57B3E}.Release|Win32.Build.0 = Release|Win32
+		{810713FD-7E26-406A-9B63-C27F82417FBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{810713FD-7E26-406A-9B63-C27F82417FBE}.Debug|Win32.Build.0 = Debug|Win32
+		{810713FD-7E26-406A-9B63-C27F82417FBE}.Release|Win32.ActiveCfg = Release|Win32
+		{810713FD-7E26-406A-9B63-C27F82417FBE}.Release|Win32.Build.0 = Release|Win32
+		{92E9836B-FF10-447A-8EB9-C7D325924869}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92E9836B-FF10-447A-8EB9-C7D325924869}.Debug|Win32.Build.0 = Debug|Win32
+		{92E9836B-FF10-447A-8EB9-C7D325924869}.Release|Win32.ActiveCfg = Release|Win32
+		{92E9836B-FF10-447A-8EB9-C7D325924869}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

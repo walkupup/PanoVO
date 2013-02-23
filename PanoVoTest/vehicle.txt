@@ -1,0 +1,46 @@
+Cam ID = 51 52 53 54
+Car Type = Junwei
+
+Cam Height 0 = 1.010000
+Cam Height 1 = 0.495000
+Cam Height 2 = 0.995000
+Cam Height 3 = 0.660000
+
+Cam Offset 0 = -1.048000 -0.525000
+Cam Offset 1 = 0.000000 -2.455000
+Cam Offset 2 = 1.042000 -0.525000
+Cam Offset 3 = 0.000000 2.465000
+
+Sight 0 = 2.000000
+Sight 1 = 3.000000
+Sight 2 = 2.000000
+Sight 3 = 3.000000
+
+Cam Pitch 0 = 52.000000
+Cam Pitch 1 = 18.000000
+Cam Pitch 2 = 51.000000
+Cam Pitch 3 = 45.000000
+
+Cam Roll 0 = 0.000000
+Cam Roll 1 = -3.000000
+Cam Roll 2 = -1.000000
+Cam Roll 3 = 5.000000
+
+Cam Yaw 0 = 2.000000
+Cam Yaw 1 = -3.000000
+Cam Yaw 2 = 3.000000
+Cam Yaw 3 = -3.000000
+
+Blind Dist 0 = 0.000000
+Blind Dist 1 = 0.200000
+Blind Dist 2 = 0.000000
+Blind Dist 3 = 0.050000
+
+Pattern Size = 0.600000
+Angle Range = 10.000000 5.000000 5.000000
+Angle Step = 1.000000 5.000000 5.000000
+Cam mirror = 0
+
+Mid Cam Height = 7.0
+Vir Cam Height = 4.5
+Vir Cam Offset = 0.0 2.0
